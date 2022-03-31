@@ -1,0 +1,18 @@
+#tableData {
+    margin-left:0;
+    margin-right:60%;
+    padding:0px;
+
+}
+
+
+
+tr {
+    background-color:rgb(227, 248, 194);
+    margin-left:50px;
+    margin-right:50%;
+}
+td {
+    background-color:rgb(230, 248, 248);
+    
+}
